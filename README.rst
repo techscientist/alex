@@ -4,7 +4,7 @@
 Alex Dialogue Systems Framework
 =================================================
 
-..  image:: https://travis-ci.org/UFAL-DSG/alex.png
+..  image:: https://travis-ci.org/UFAL-DSG/alex.png?branch=master
     :target: https://travis-ci.org/UFAL-DSG/alex
 
 .. image:: https://readthedocs.org/projects/alex/badge/?version=latest&style=travis
